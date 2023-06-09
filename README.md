@@ -29,12 +29,6 @@ composer require spomky-labs/otphp:10.0.3
 
 # Utilisation de ce dépôt
 
-* Cloner le dépôt
-* 
-```bash
-git clone git@github.com:LiliwoL/PHP-Authentication-OTP.git
-cd PHP-Authentication-OTP
-```
 
 * Installer les dépendances (composer doit être installé!)
 ```bash
